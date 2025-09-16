@@ -1,0 +1,4 @@
+﻿# クリップボードの内容を UTF-8 で保存
+Get-Clipboard | Out-File "C:\projects\mens-salon\chat-gpt-full-log.txt" -Encoding UTF8
+
+gran-sereno.netlify.app

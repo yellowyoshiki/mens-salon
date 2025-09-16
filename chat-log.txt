@@ -1,0 +1,2 @@
+﻿Get-Clipboard | Out-File "C:\projects\mens-salon\chat-log.txt" -Encoding UTF8
+
